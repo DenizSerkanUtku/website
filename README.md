@@ -4,6 +4,7 @@ web site trial
 <!DOCTYPE html>
 <html>
 <head>
+  <title> html + css + js uygulamalari </title>
 
 </head>
 
