@@ -1,8 +1,16 @@
 # website
 web site trial
 
-<DOCTYPE html!>
+<!DOCTYPE html>
 <html>
+<head>
+
+</head>
+
+<body>
+  <p> ne yapmak lazim</p>
+
+</body>
 
 
 
